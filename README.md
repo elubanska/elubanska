@@ -1,6 +1,4 @@
 ## Hi there :wave:
-Please take a look on my Resume 
+### Please take a look on my Resume 
 ---
-![Infographic Resume](Emilia Lubanska - Oledzka Infografic Resume.pdf)
----
-![Professional Resume](actualApp/assets/img/scatter.gif)
+<a href="Emilia Lubanska - Oledzka Infografic Resume.pdf">"Infographic resume"</a>
