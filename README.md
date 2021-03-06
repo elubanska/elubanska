@@ -1,6 +1,6 @@
 ## Hi there :wave:
 ### Please take a look on my Portfolio
-![](portfolio.png)
+![](portfolio1.png)
 
 ### And my Resume 
 <li><a href="Emilia Lubanska - Oledzka Infografic Resume.pdf">Infographic resume</a>
