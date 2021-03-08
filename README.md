@@ -1,5 +1,5 @@
 ## Hi there :wave:
-### Please take a look on my Portfolio
+### Please take a look at my Portfolio
 <a href = "" >![](portfolio1.png)</a>
 
 ### And my Resume 
